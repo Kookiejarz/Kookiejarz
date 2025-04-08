@@ -14,5 +14,5 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ![Kookiejarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kookiejarz&show_icons=true&theme=radical)
 
-https://raw.githubusercontent.com/Kookiejarz/github-stats/master/generated/languages.svg#gh-dark-mode-only
+![](https://raw.githubusercontent.com/Kookiejarz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 Thanks for stopping by! Have a great day! 😊
