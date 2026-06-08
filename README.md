@@ -1,7 +1,7 @@
 # Hi, I'm Yunheng Liu (Kenneth) 👋
 
-High school student building Linux networking and security tools.
 My projects start from real problems, the ones I couldn't find good solutions for.
+I am dedicating myself fully to my studies (for the time being), while also making a conscious effort to participate in a variety of projects that I have found useful.
 
 ## 🔧 What I'm working on
 
@@ -13,12 +13,14 @@ My projects start from real problems, the ones I couldn't find good solutions fo
 
 - **[ExHyperV](https://github.com/Justsenger/ExHyperV)** — added Winget automated release pipeline; fixed Scoop autoupdate and added arm64 support in (https://github.com/Justsenger/ExHyperV/pull/164); fixed Browse dialog not initializing to current input path (https://github.com/Justsenger/ExHyperV/pull/166)
 
-## 🛠 Stack
+## 🛠 Love doing
 
-Linux · eBPF/XDP · tc egress · Python · C++
+🐧 Linux · 🐝 eBPF/XDP · 🌐 Network · 🐍 Python · ⚙️ C++
+
+Feel free to reach me out anytime.
 
 ## 📫 Reach me
 
-[liu@liuu.org](mailto:liu@liuu.org) · [liuu.org](https://liuu.org)
+[yunhengk@gmail.com](mailto:yunhengk@gmail.com) · [liuu.org](https://liuu.org)
 
 ![Kookiejarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kookiejarz&show_icons=true&theme=radical)
