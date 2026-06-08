@@ -1,17 +1,26 @@
-# Hi there, I'm Yunheng Liu (Kenneth)! 👋
+# Hi, I'm Yunheng Liu (Kenneth) 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and constantly learning new technologies. Here you'll find a variety of projects that I've worked on. Feel free to explore and reach out if you have any questions or collaboration ideas.
+High school student building Linux networking and security tools.
+My projects start from real problems, the ones I couldn't find good solutions for.
 
-## 🚀 About Me
+## 🔧 What I'm working on
 
-- 🔭 I’m currently working on exciting new projects in web development and machine learning.
-- 🌱 I’m constantly learning and expanding my knowledge in different programming languages and frameworks.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 📫 How to reach me: [Email](mailto:liu@liuu.org) 
+**[Auto XDP](https://github.com/Kookiejarz/auto-xdp)** — an eBPF/XDP stateful firewall for Linux that automatically syncs with what the host is actually listening on. Features tc egress conntrack, per-CPU rate limiting, hot reload with connection preservation, and malformed packet detection. Hit #1 on r/eBPF.
 
+## 📦 Open source contributions
 
-## 📈 GitHub Stats
+- **[3x-ui](https://github.com/MHSanaei/3x-ui)** (36k★) — fixed CPU spikes caused by `/dev/urandom | tr` pipeline; fixed SSL certificate handling logic
+
+- **[ExHyperV](https://github.com/Justsenger/ExHyperV)** — added Winget automated release pipeline; fixed Scoop autoupdate and added arm64 support in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras/pull/17460)
+ 
+- **[ExHyperV](https://github.com/Justsenger/ExHyperV)** — added Winget automated release pipeline; fixed Scoop autoupdate and added arm64 support; fixed Browse dialog not initializing to current input path 
+
+## 🛠 Stack
+
+Linux · eBPF/XDP · tc egress · Python · C++
+
+## 📫 Reach me
+
+[liu@liuu.org](mailto:liu@liuu.org) · [liuu.org](https://liuu.org)
 
 ![Kookiejarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kookiejarz&show_icons=true&theme=radical)
-
-Thanks for stopping by! Have a great day! 😊
