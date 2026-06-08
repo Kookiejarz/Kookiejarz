@@ -9,11 +9,9 @@ My projects start from real problems, the ones I couldn't find good solutions fo
 
 ## 📦 Open source contributions
 
-- **[3x-ui](https://github.com/MHSanaei/3x-ui)** — fixed CPU spikes caused by `/dev/urandom | tr` pipeline; fixed SSL certificate handling logic
+- **[3x-ui](https://github.com/MHSanaei/3x-ui)** — fixed CPU spikes caused by `/dev/urandom | tr` pipeline (https://github.com/MHSanaei/3x-ui/pull/3887); fixed SSL certificate handling logic (https://github.com/MHSanaei/3x-ui/pull/4004)
 
-- **[ExHyperV](https://github.com/Justsenger/ExHyperV)** — added Winget automated release pipeline; fixed Scoop autoupdate and added arm64 support in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras/pull/17460)
- 
-- **[ExHyperV](https://github.com/Justsenger/ExHyperV)** — added Winget automated release pipeline; fixed Scoop autoupdate and added arm64 support; fixed Browse dialog not initializing to current input path 
+- **[ExHyperV](https://github.com/Justsenger/ExHyperV)** — added Winget automated release pipeline; fixed Scoop autoupdate and added arm64 support in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras/pull/17460); fixed Browse dialog not initializing to current input path (https://github.com/Justsenger/ExHyperV/pull/166)
 
 ## 🛠 Stack
 
